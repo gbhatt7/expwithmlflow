@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/61dd60ba6e874c14ba27e2552c09b420/artifacts
+end_time: 1751999151226
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 61dd60ba6e874c14ba27e2552c09b420
+run_name: gentle-horse-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999151219
+status: 3
+tags: []
+user_id: orbit

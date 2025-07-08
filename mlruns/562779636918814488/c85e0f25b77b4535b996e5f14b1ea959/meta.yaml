@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/c85e0f25b77b4535b996e5f14b1ea959/artifacts
+end_time: 1751999151196
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: c85e0f25b77b4535b996e5f14b1ea959
+run_name: learned-lamb-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999151189
+status: 3
+tags: []
+user_id: orbit

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/aa0fec2764bf4e0baf3d64ff602c2e67/artifacts
+end_time: 1751999259947
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: aa0fec2764bf4e0baf3d64ff602c2e67
+run_name: painted-rook-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999259933
+status: 3
+tags: []
+user_id: orbit

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/21a656960ec24fa497fac83b7e92122c/artifacts
+end_time: 1751999259987
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 21a656960ec24fa497fac83b7e92122c
+run_name: legendary-wolf-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999259972
+status: 3
+tags: []
+user_id: orbit

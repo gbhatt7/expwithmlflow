@@ -5,8 +5,6 @@ from sklearn.datasets import load_breast_cancer
 import pandas as pd
 import mlflow
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
-
 data = load_breast_cancer()
 x=pd.DataFrame(data.data, columns=data.feature_names)
 y=pd.Series(data.target, name="target")

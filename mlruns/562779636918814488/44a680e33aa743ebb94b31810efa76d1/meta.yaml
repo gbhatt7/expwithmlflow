@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/44a680e33aa743ebb94b31810efa76d1/artifacts
+end_time: 1751999261908
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 44a680e33aa743ebb94b31810efa76d1
+run_name: bouncy-fox-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999257184
+status: 3
+tags: []
+user_id: orbit

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/models/m-a1c99524475e4d72b8e02854df0b748a/artifacts
+creation_timestamp: 1751999151274
+experiment_id: '562779636918814488'
+last_updated_timestamp: 1751999153183
+model_id: m-a1c99524475e4d72b8e02854df0b748a
+model_type: null
+name: random_forest
+source_run_id: 2fa14fbc9211471e9365b47c824152c5
+status: 2
+status_message: null

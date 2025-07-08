@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/2fa14fbc9211471e9365b47c824152c5/artifacts
+end_time: 1751999153186
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 2fa14fbc9211471e9365b47c824152c5
+run_name: popular-finch-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999148486
+status: 3
+tags: []
+user_id: orbit

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/a096f0e81f5e40feaa19aabfd09b06dd/artifacts
+end_time: 1751999260080
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: a096f0e81f5e40feaa19aabfd09b06dd
+run_name: victorious-bug-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999260066
+status: 3
+tags: []
+user_id: orbit

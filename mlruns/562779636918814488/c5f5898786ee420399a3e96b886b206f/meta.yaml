@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/c5f5898786ee420399a3e96b886b206f/artifacts
+end_time: 1751999151180
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: c5f5898786ee420399a3e96b886b206f
+run_name: kindly-roo-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999151173
+status: 3
+tags: []
+user_id: orbit

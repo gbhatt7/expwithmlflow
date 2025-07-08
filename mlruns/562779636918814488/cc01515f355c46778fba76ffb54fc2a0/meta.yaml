@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/cc01515f355c46778fba76ffb54fc2a0/artifacts
+end_time: 1751999259927
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: cc01515f355c46778fba76ffb54fc2a0
+run_name: defiant-toad-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999259911
+status: 3
+tags: []
+user_id: orbit

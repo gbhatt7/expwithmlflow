@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/73ab93ba6a7e493a90f1658434f610c2/artifacts
+end_time: 1751999151172
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 73ab93ba6a7e493a90f1658434f610c2
+run_name: spiffy-flea-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999151165
+status: 3
+tags: []
+user_id: orbit

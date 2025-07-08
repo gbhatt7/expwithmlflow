@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/4bd18d6a7bc945d7b2fcb78ff3890b0d/artifacts
+end_time: 1751999151218
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 4bd18d6a7bc945d7b2fcb78ff3890b0d
+run_name: masked-turtle-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999151212
+status: 3
+tags: []
+user_id: orbit

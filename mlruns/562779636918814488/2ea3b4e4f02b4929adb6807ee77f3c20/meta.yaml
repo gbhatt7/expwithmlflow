@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/2ea3b4e4f02b4929adb6807ee77f3c20/artifacts
+end_time: 1751999260101
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 2ea3b4e4f02b4929adb6807ee77f3c20
+run_name: thundering-jay-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999260086
+status: 3
+tags: []
+user_id: orbit

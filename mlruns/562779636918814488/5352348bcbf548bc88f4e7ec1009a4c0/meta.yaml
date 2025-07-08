@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/5352348bcbf548bc88f4e7ec1009a4c0/artifacts
+end_time: 1751999259967
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 5352348bcbf548bc88f4e7ec1009a4c0
+run_name: spiffy-rat-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999259953
+status: 3
+tags: []
+user_id: orbit

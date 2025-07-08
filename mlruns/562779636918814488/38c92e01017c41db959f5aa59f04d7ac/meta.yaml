@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/38c92e01017c41db959f5aa59f04d7ac/artifacts
+end_time: 1751999260023
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 38c92e01017c41db959f5aa59f04d7ac
+run_name: brawny-roo-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999260010
+status: 3
+tags: []
+user_id: orbit

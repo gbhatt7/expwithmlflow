@@ -5,8 +5,6 @@ from sklearn.datasets import load_breast_cancer
 import pandas as pd
 import mlflow
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
-
 data = load_breast_cancer()
 x=pd.DataFrame(data.data, columns=data.feature_names)
 y=pd.Series(data.target, name="target")
@@ -33,15 +31,8 @@ gridsearch=GridSearchCV(estimator=rf,param_grid=paramgird,cv=5,n_jobs=-1,verbose
 
 mlflow.set_experiment("breast cancer")
 
-with mlflow.start_run() as parent:
+with mlflow.start_run():
     gridsearch.fit(x_train, y_train)
-    
-    for i in range(len(gridsearch.cv_results_['params'])):
-        
-        with mlflow.start_run(nested=True) as child:
-            mlflow.log_params(gridsearch.cv_results_["params"][i])
-            mlflow.log_metric("accuracy", gridsearch.cv_results_["mean_test_score"][i])
-    
     bestparams=gridsearch.best_params_
     bestscore=gridsearch.best_score_
     

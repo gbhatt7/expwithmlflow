@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/fc717cadec74418f852ca404eba3f0e1/artifacts
+end_time: 1751999260139
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: fc717cadec74418f852ca404eba3f0e1
+run_name: efficient-bee-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999260125
+status: 3
+tags: []
+user_id: orbit

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/mlruns/562779636918814488/4a9bdb2036114879868d129ee176dd7a/artifacts
+end_time: 1751999151164
+entry_point_name: ''
+experiment_id: '562779636918814488'
+lifecycle_stage: active
+run_id: 4a9bdb2036114879868d129ee176dd7a
+run_name: illustrious-ape-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751999151157
+status: 3
+tags: []
+user_id: orbit
