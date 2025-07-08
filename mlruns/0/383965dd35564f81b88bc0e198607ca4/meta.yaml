@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/383965dd35564f81b88bc0e198607ca4/artifacts
+end_time: 1751823185213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 383965dd35564f81b88bc0e198607ca4
+run_name: nebulous-rook-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751823185200
+status: 3
+tags: []
+user_id: orbit

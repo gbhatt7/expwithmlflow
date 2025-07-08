@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/271950629531459533
+creation_time: 1751832364489
+experiment_id: '271950629531459533'
+last_update_time: 1751832364489
+lifecycle_stage: active
+name: wine dataset experiment

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17a0d16e4c8a45589c28ffc374cdf1dc/artifacts
+end_time: 1751830942056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17a0d16e4c8a45589c28ffc374cdf1dc
+run_name: nosy-dolphin-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751830941829
+status: 3
+tags: []
+user_id: orbit

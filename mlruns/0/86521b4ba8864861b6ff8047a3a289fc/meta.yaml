@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/86521b4ba8864861b6ff8047a3a289fc/artifacts
+end_time: 1751829993744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86521b4ba8864861b6ff8047a3a289fc
+run_name: enthused-snake-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751829993535
+status: 4
+tags: []
+user_id: orbit

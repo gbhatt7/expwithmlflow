@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6fa012ebfe7d4836bda1c70e962f935e/artifacts
+end_time: 1751981777724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fa012ebfe7d4836bda1c70e962f935e
+run_name: intrigued-shrew-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751981777473
+status: 3
+tags: []
+user_id: orbit

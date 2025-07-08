@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/orbit/Desktop/expwithmlflow/src/mlruns/0/c252c693ea1d4edca4776d4b06d0d99c/artifacts
+end_time: 1751823116737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c252c693ea1d4edca4776d4b06d0d99c
+run_name: sedate-zebra-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751823116722
+status: 3
+tags: []
+user_id: orbit

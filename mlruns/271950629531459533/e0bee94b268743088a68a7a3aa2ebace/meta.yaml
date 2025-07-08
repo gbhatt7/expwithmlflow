@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/271950629531459533/e0bee94b268743088a68a7a3aa2ebace/artifacts
+end_time: 1751833996230
+entry_point_name: ''
+experiment_id: '271950629531459533'
+lifecycle_stage: active
+run_id: e0bee94b268743088a68a7a3aa2ebace
+run_name: unleashed-wasp-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751833993799
+status: 3
+tags: []
+user_id: orbit
